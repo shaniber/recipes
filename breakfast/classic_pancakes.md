@@ -1,27 +1,25 @@
-Classic Pancakes
+# Classic Pancakes
 
+## Source
+Allrecipes?
 
-Ingredients
+## Ingredients
++ 2 c unbleached all-purpose flour or whole wheat pastry flour
++ 2 T sugar or honey, or to taste
++ 4 t baking powder
++ 1 t salt
++ 2 c skim milk
++ 1/4 c canola oil
++ 2 egg
 
-    2	c	unbleached all-purpose flour or whole wheat pastry flour
-    2	T	sugar or honey, or to taste
-    4	t	baking powder
-    1	t	salt
-    2	c	skim milk
-    1/4	c	canola oil
-    2		egg
+## Directions
 
-
-Directions
-
-    Whisk together flour, sugar, baking powder and salt in a small bowl. In a 
+Whisk together flour, sugar, baking powder and salt in a small bowl. In a 
 separate bowl, whisk together Pure Almond, oil and egg. Add flour mixture to 
 egg mixture and stir just to moisten - a few lumps are fine. Cook pancakes on 
 a griddle over medium heat.
 
-
-Yield
-
-    16 - 20 pancakes.
+## Yield
+16 - 20 pancakes.
 
 
