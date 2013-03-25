@@ -21,8 +21,7 @@
 + 2    Tbsp        butter, softened
 + 4    slices      yellow American cheese
 
-##Directions
-
+## Directions
 In a large pot or Dutch oven, heat the olive oil over medium heat. 
 Add the onions, and cook over medium-low heat for 15 minutes, stirring 
 occasionally, until golden brown. Add the garlic and cook for an additional 
