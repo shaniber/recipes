@@ -15,6 +15,6 @@ Cook's Illustrated
 
 Mash lemons and sugar (and salt, if using) in large, deep bowl or saucepan with potato masher or wooden spoon until lemon slices give up their juice and the sugar is dissolved, and juice is thickened to syrup consistency, about 4 minutes. Pour half the lemon slices and syrup through large sieve over bowl or saucepan; press on solids with masher or back of wooden spoon to release as much liquid as possible. Discard solids; transfer liquid to serving pitcher. Repeat process with remaining lemon slices.  Stir in water until blended. Chill well and stir to blend before serving, over ice if desired.
 
-Yield
+## Yield
 
 about 1.5 L 

@@ -1,15 +1,15 @@
-= Lemon Squash
+# Lemon Squash
 
-== Source: 
+## Source: 
 [http://www.users.on.net/~saline/lemon.html](http://www.users.on.net/~saline/lemon.html)
 
-== Ingredients
+## Ingredients
 + Lemons to yield about 2 1/2 cups juice
 + 1 KG white sugar
 + 2 L water
 + 2 t citric acid (optional)
 
-== Directions
+## Directions
 Peel the yellow zest from at least half the lemons, making sure not to 
 include the white pith of the skins.  Squeeze juice from the fruit and 
 reserve. 
@@ -19,6 +19,5 @@ until the sugar is dissolved and the syrup is a lovely yellow.  Strain out
 the peeled skins, add the fresh lemon juice and citric acid to the syrup 
 and store in clean, sterile bottles. 
 
-
-== Yield
+## Yield
 about 2.5 L of juice.
