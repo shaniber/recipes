@@ -1,6 +1,7 @@
 # Classic Lemonade
 
-## Source: 
+## Source
+
 Cook's Illustrated  
 [http://ask.metafilter.com/68352/Life-gave-me-bitter-lemonadenow-what](http://ask.metafilter.com/68352/Life-gave-me-bitter-lemonadenow-what)
 
