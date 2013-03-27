@@ -1,7 +1,7 @@
 # Pork and Poblano Stew
 
 ## Source
-[http://mlkshk.com/p/PJ0O](Brobosky's Lunch)
+[http://mlkshk.com/p/PJ0O](Brobosky's Lunch)  
 [http://www.simplyrecipes.com/recipes/pork_and_poblano_stew/](http://www.simplyrecipes.com/recipes/pork_and_poblano_stew/)
 
 ## Ingredients
