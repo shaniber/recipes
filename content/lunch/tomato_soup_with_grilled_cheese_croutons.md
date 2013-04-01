@@ -1,3 +1,7 @@
+Title: Tomato Soup with Grilled Cheese Croutons
+Date: 2013-03-26 12:00
+Author: shane doucette
+
 # Tomato Soup with Grilled Cheese Croutons
 
 ## Source: 

@@ -1,3 +1,4 @@
 # gitignore for recipes.
 output
 *.pyc
+*.pid

@@ -18,22 +18,25 @@ SSH_TARGET_DIR=/var/www
 
 DROPBOX_DIR=~/Dropbox/Public/
 
+LOCAL_DIR=/u1/www/tauntedechoes.com/htdocs/rb
+
 help:
-	@echo 'Makefile for a pelican Web site                                        '
-	@echo '                                                                       '
-	@echo 'Usage:                                                                 '
-	@echo '   make html                        (re)generate the web site          '
-	@echo '   make clean                       remove the generated files         '
-	@echo '   make regenerate                  regenerate files upon modification '
-	@echo '   make publish                     generate using production settings '
-	@echo '   make serve                       serve site at http://localhost:8000'
-	@echo '   make devserver                   start/restart develop_server.sh    '
-	@echo '   ssh_upload                       upload the web site via SSH        '
-	@echo '   rsync_upload                     upload the web site via rsync+ssh  '
-	@echo '   dropbox_upload                   upload the web site via Dropbox    '
-	@echo '   ftp_upload                       upload the web site via FTP        '
-	@echo '   github                           upload the web site via gh-pages   '
-	@echo '                                                                       '
+	@echo 'Makefile for a pelican Web site                                           '
+	@echo '                                                                          '
+	@echo 'Usage:                                                                    '
+	@echo '   make html                        (re)generate the web site             '
+	@echo '   make clean                       remove the generated files            '
+	@echo '   make regenerate                  regenerate files upon modification    '
+	@echo '   make publish                     generate using production settings    '
+	@echo '   make serve                       serve site at http://localhost:8000   '
+	@echo '   make devserver                   start/restart develop_server.sh       '
+	@echo '   ssh_upload                       upload the web site via SSH           '
+	@echo '   rsync_upload                     upload the web site via rsync+ssh     '
+	@echo '   dropbox_upload                   upload the web site via Dropbox       '
+	@echo '   ftp_upload                       upload the web site via FTP           '
+	@echo '   local                            copy the web site to a local directory'
+	@echo '   github                           upload the web site via gh-pages      '
+	@echo '                                                                          '
 
 
 html: clean $(OUTPUTDIR)/index.html
@@ -68,6 +71,9 @@ dropbox_upload: publish
 
 ftp_upload: publish
 	lftp ftp://$(FTP_USER)@$(FTP_HOST) -e "mirror -R $(OUTPUTDIR) $(FTP_TARGET_DIR) ; quit"
+
+local: publish
+	cp -r $(OUTPUTDIR)/* $(LOCAL_DIR)
 
 github: publish
 	ghp-import $(OUTPUTDIR)

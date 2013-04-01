@@ -1,3 +1,7 @@
+Title: Creamy Rice Pudding
+Date: 2013-03-26 12:00
+Author: shane doucette
+
 # Creamy Rice Pudding
 
 ## Source

@@ -1,3 +1,7 @@
+Title: Lemon Squash
+Date: 2013-03-26 12:00
+Author: shane doucette
+
 # Lemon Squash
 
 ## Source: 

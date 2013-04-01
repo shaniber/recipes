@@ -1,8 +1,12 @@
+Title: Pork and Poblano Stew
+Author: shane doucette
+Date: 2013-03-27 12:00
+
 # Pork and Poblano Stew
 
 ## Source
-[http://mlkshk.com/p/PJ0O](Brobosky's Lunch)  
-[http://www.simplyrecipes.com/recipes/pork_and_poblano_stew/](http://www.simplyrecipes.com/recipes/pork_and_poblano_stew/)
+[Brobosky's Lunch](http://mlkshk.com/p/PJ0O)  
+[http://www.simplyrecipes.com/recipes/pork_and_poblano_stew/](http://www.simplyrecipes.com/recipes/pork_and_poblano_stew/)  
 
 ## Ingredients
 + 4 to 5 poblano chile peppers (about 3/4 pound)

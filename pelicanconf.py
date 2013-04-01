@@ -3,7 +3,7 @@
 
 AUTHOR = u'shane doucette'
 SITENAME = u'recipe box'
-SITEURL = ''
+SITEURL = 'http://tauntedechoes.com/rb'
 
 TIMEZONE = 'Europe/Paris'
 
