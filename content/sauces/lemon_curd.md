@@ -3,7 +3,7 @@ Date: 2013-04-03 10:01
 Author: shane doucette
 
 ## Source
-[http://baketheneat.com/lemon-curd/](Bake Then Eat)
+[Bake Then Eat](http://baketheneat.com/lemon-curd/)
 
 ## Ingredients
 + 3 unwaxed lemons
