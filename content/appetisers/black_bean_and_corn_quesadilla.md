@@ -1,4 +1,4 @@
-Title: Black Bean and Corn Quesadillas 
+Title: Black Bean and Corn Quesadilla
 Date: 2013-04-16 12:30
 Author: shane doucette
 
@@ -8,7 +8,7 @@ Author: shane doucette
 ## Ingredients
 + 1 (15.5 ounce) can black beans, drained and rinsed
 + 1 (10 ounce) can whole kernel corn, drained
-+ 8 (8 inch) flour tortillas
++ 8 (12 inch) flour tortillas
 + 1 1/2 cups shredded Monterey Jack cheese, divided
 + 1 tablespoon brown sugar
 + 2 teaspoons olive oil
@@ -23,4 +23,4 @@ Heat oil in a large saucepan over medium heat. Stir in onion, and cook until sof
 Melt 2 teaspoons of the butter in a large skillet over medium heat. Place a tortilla in the skillet, sprinkle evenly with cheese, then top with some of the bean mixture. Place another tortilla on top, cook until golden, then flip and cook on the other side. Melt more butter as needed, and repeat with remaining tortillas and filling.
 
 ## Yield
-Number of servings (optional serving size)
+Four servings.
