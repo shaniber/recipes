@@ -3,7 +3,7 @@ Date: 2013-04-17 12:30
 Author: shane doucette
 
 ## Source
-[http://allrecipes.com/Recipe/Pico-de-Gallo-Chicken-Quesadillas/Detail.aspx](AllRecipes)
+[AllRecipes](http://allrecipes.com/Recipe/Pico-de-Gallo-Chicken-Quesadillas/Detail.aspx)
 
 ## Ingredients
 + 1.5 cups pico de gallo
