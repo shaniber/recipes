@@ -3,7 +3,7 @@ Date: 2013-04-17 12:30
 Author: shane doucette
 
 ## Source
-[Simply Recipes](http://www.simplyrecipes.com/recipes/shrimp_quesadilla/)
+Inspired by a recipe at [Simply Recipes](http://www.simplyrecipes.com/recipes/shrimp_quesadilla/)
 
 ## Ingredients
 + 1 pound of medium-small shrimp, peeled and deveined
