@@ -4,7 +4,7 @@ Author: shane doucette
 
 ## Source
 {PERSON OR SOURCE NAME}  
-[LINK IF AVAILABLE]([http://www.example.com/)
+[LINK IF AVAILABLE](http://www.example.com/)
 
 ## Ingredients
 + 1/2 cup *ingredient one*
