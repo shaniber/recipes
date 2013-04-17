@@ -13,7 +13,7 @@ Inspired by a recipe at [AllRecipes](http://allrecipes.com/Recipe/Black-Bean-and
 + 1 tablespoon brown sugar
 + 2 teaspoons olive oil
 + 3 tablespoons finely chopped onion
-+ 1/4 cup salsa
++ 1 1/2 cup pico de gallo
 + 1/4 teaspoon red pepper flakes
 + 2 tablespoons butter, divided
 

@@ -7,6 +7,7 @@ Inspired by a recipe at [Simply Recipes](http://www.simplyrecipes.com/recipes/sh
 
 ## Ingredients
 + 1 pound of medium-small shrimp, peeled and deveined
++ 1 1/2 cups pico de gallo
 + 4 Tbsp of lime or lemon juice
 + 8 flour tortillas
 + 1 cup shredded Monterey Jack cheese
