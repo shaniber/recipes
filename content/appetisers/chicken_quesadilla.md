@@ -12,7 +12,7 @@ Inspired by a recipe at [AllRecipes](http://allrecipes.com/Recipe/Pico-de-Gallo-
 + 1/2 onion, thinly sliced
 + 1 green bell pepper, thinly sliced
 + 2 cloves garlic, minced
-+ 4 (12 inch) flour tortillas
++ 8 (12 inch) flour tortillas
 + 1 cup shredded Monterey Jack cheese
 + 1/4 cup sour cream, for topping
 
