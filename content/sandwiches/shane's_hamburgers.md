@@ -1,6 +1,6 @@
-Title: Shane's Hamburgers
-Author: shane doucette
-Date: 2013-03-31 18:00
+Title: Shane's Hamburgers  
+Author: shane doucette  
+Date: 2013-03-31 18:00  
 
 ## Source
 Me!

@@ -1,6 +1,6 @@
-Title: Caesar Wedge Salad
-Date: 2013-04-16 12:30
-Author: shane doucette
+Title: Caesar Wedge Salad  
+Date: 2013-04-16 12:30  
+Author: shane doucette  
 
 ## Source
 Inspired by numerous wedge salad recipes.

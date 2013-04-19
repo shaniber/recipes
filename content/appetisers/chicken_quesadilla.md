@@ -1,6 +1,6 @@
-Title: Chicken Quesadilla
-Date: 2013-04-17 12:30
-Author: shane doucette
+Title: Chicken Quesadilla  
+Date: 2013-04-17 12:30  
+Author: shane doucette  
 
 ## Source
 Inspired by a recipe at [AllRecipes](http://allrecipes.com/Recipe/Pico-de-Gallo-Chicken-Quesadillas/Detail.aspx)

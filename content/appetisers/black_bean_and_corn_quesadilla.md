@@ -1,6 +1,6 @@
-Title: Black Bean and Corn Quesadilla
-Date: 2013-04-16 12:30
-Author: shane doucette
+Title: Black Bean and Corn Quesadilla  
+Date: 2013-04-16 12:30  
+Author: shane doucette  
 
 ## Source
 Inspired by a recipe at [AllRecipes](http://allrecipes.com/Recipe/Black-Bean-and-Corn-Quesadillas/Detail.aspx)

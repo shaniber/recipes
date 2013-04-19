@@ -1,6 +1,6 @@
-Title: Classic Pancakes
-Date: 2013-03-26 12:00
-Author: shane doucette
+Title: Classic Pancakes  
+Date: 2013-03-26 12:00  
+Author: shane doucette  
 
 # Classic Pancakes
 

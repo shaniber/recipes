@@ -1,6 +1,6 @@
-Title: Shrimp Quesadilla
-Date: 2013-04-17 12:30
-Author: shane doucette
+Title: Shrimp Quesadilla  
+Date: 2013-04-17 12:30  
+Author: shane doucette  
 
 ## Source
 Inspired by a recipe at [Simply Recipes](http://www.simplyrecipes.com/recipes/shrimp_quesadilla/)

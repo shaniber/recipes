@@ -1,6 +1,6 @@
-Title: RECIPE TITLE
-Date: 1974-04-12 10:34
-Author: shane doucette
+Title: RECIPE TITLE  
+Date: 1974-04-12 10:34  
+Author: shane doucette  
 
 ## Source
 {PERSON OR SOURCE NAME}  

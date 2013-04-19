@@ -1,6 +1,6 @@
-Title: Pico de Gallo
-Date: 2013-04-16 12:30
-Author: shane doucette
+Title: Pico de Gallo  
+Date: 2013-04-16 12:30  
+Author: shane doucette  
 
 ## Source
 [AllRecipes](http://allrecipes.com/Recipe/Pico-de-Gallo-3/Detail.aspx)

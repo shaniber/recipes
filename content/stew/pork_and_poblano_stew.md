@@ -1,6 +1,6 @@
-Title: Pork and Poblano Stew
-Author: shane doucette
-Date: 2013-03-27 12:00
+Title: Pork and Poblano Stew  
+Author: shane doucette  
+Date: 2013-03-27 12:00  
 
 # Pork and Poblano Stew
 

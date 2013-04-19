@@ -1,6 +1,6 @@
-Title: Sangria 
-Date: 2013-04-19 16:30
-Author: shane doucette
+Title: Sangria  
+Date: 2013-04-19 16:30  
+Author: shane doucette  
 
 ## Source
 

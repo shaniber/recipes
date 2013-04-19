@@ -1,6 +1,6 @@
-Title: Lemon Curd
-Date: 2013-04-03 10:01
-Author: shane doucette
+Title: Lemon Curd  
+Date: 2013-04-03 10:01  
+Author: shane doucette  
 
 ## Source
 [Bake Then Eat](http://baketheneat.com/lemon-curd/)
