@@ -3,11 +3,12 @@ Date: 2013-04-16 12:30
 Author: shane doucette  
 
 ## Source
-[AllRecipes](http://allrecipes.com/Recipe/Pico-de-Gallo-3/Detail.aspx)
+[Inspired by this AllRecipes recipe.](http://allrecipes.com/Recipe/Pico-de-Gallo-3/Detail.aspx)
 
 ## Ingredients
 + 6 roma (plum) tomatoes, diced
 + 1/2 red onion, minced
++ 1/3 red, yellow, and orange peppers
 + 3 tablespoons chopped fresh cilantro
 + 1 jalapeno pepper, seeded and minced
 + 2 limes, juiced
