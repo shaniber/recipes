@@ -3,15 +3,14 @@ Date: 2013-07-15 21:22
 Author: shane doucette  
 
 ## Source
-{PERSON OR SOURCE NAME}  
-[LINK IF AVAILABLE](http://www.example.com/)
+based on [BS-Free Chili Recipe](http://foodists.ca/2009/09/25/bullshit-free-moose-chili-recipe.html)
 
 ## Ingredients
 + 2 pounds ground meat
 + 1 pound maple smoked bacon
 + 1 minced onion
 + 4 cloves of garlic
-+ 4 chopped and seeded jalapeño peppers
++ chopped and seeded jalapeño peppers
 + 2 cans of diced tomatoes
 + 2 cans maple beans
 + 1/4 cup brown sugar
