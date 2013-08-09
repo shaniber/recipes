@@ -1,44 +1,55 @@
-Title: Meat Chili 
-Date: 2013-07-15 21:22 
-Author: shane doucette  
+Title: Meat Chili  
+Date: 2013-07-15 21:22  
+Author: shane doucette   
+
+This chili was originally built around a moose / pork mixture, but works very well with any meat.  It has a slow building heat, letting you taste all the other flavours first before it slaps you lightly in the mouth.  It can be started the night before, to have it ready for lunch the next day.
 
 ## Source
-{PERSON OR SOURCE NAME}  
-[LINK IF AVAILABLE](http://www.example.com/)
+based on [BS-Free Chili Recipe](http://foodists.ca/2009/09/25/bullshit-free-moose-chili-recipe.html)
 
 ## Ingredients
+
+#### Meat
 + 2 pounds ground meat
 + 1 pound maple smoked bacon
+ 
+#### Vegetables
 + 1 minced onion
 + 4 cloves of garlic
 + 4 chopped and seeded jalapeño peppers
-+ 2 cans of diced tomatoes
-+ 2 cans maple beans
++ 3 halved and seeded chili peppers
++ 2 diced bell peppers
++ 1 28 oz can of diced tomatoes
++ 1 28 oz can of strained tomatoes
++ 2 cans maple beans (optional)
+
+#### Liquid
++ 355 ml dark beer
++ 1 cup strong black coffee, like espresso
++ 1/2 cup maple syrup (optional)
+
+#### Seasonings
 + 1/4 cup brown sugar
-+ 10 splashes worcestershire sauce
-+ 10 splashes tobasco
-+ 1/2 cup chipotle sauce
-+ 2 oz tequila
-+ 1 can dark beer
-+ 1 cup strong black coffee
-+ 1 6oz can of tomato paste
-+ 3 tablespoons ground cumin
-+ 1.5 teaspoons ground coriander
-+ 3 tablespoons chili powder
-+ 1.5 tablespoons cocoa powder
++ 15 splashes worcestershire sauce
++ 15 splashes tobasco
++ 1 bottle chipotle sauce
++ 2 T ground cumin
++ 1 t ground coriander
++ 3 T chili powder
++ 1 T cocoa powder
++ 2 T cayenne powder
 + salt and pepper to taste
 
 
 ## Directions
-Divide the spices into three equal parts. 
 
-Brown the meat, seasoning it lightly with salt and pepper.  Cook the bacon until slightly crisp.  Drain the fat, crumble, and cook with the onion and garlic, until they are soft. 
+Brown the meat, seasoning it lightly with salt, pepper, and 1 Tbsp of chili powder.  Cook the bacon until slightly crisp.  Drain the fat, crumble, and cook with the onion and garlic, until they are soft. 
 
-In a crock or stock pot, add the bacon/onion/garlic mixture.  Add the diced tomatoes (with juice), beer, coffee, tequila, tomato paste, and hot sauces.  Add in the browned meat, and stir it all up.
+In a crock or stock pot, add the bacon/onion/garlic mixture.  Add the tomatoes, beer, coffee, and hot sauces.  Add in the browned meat, and stir it all up.
 
-Add your chilis, first third of spices, and brown sugar.  Bring to a simmer.  After two hours, add the second third of spices, and the maple beans.  Finally, just before serving, stir in the final third of spices.  
+Add the peppers, half of the spices, and brown sugar.  Bring to a simmer on high.  After at least two hours, add the second of the spices.  An hour before serving, add the maple beans and maple syrup.  Finally, just before serving, taste to make sure that the heat is as desired.
 
-Serve in bowls, topped with shredded cheese.
+Serve in bowls, with waffles on the side.
 
 ## Yield
-...
+Enough chili to feed at least 6 people with leftovers for breakfast the next day.
