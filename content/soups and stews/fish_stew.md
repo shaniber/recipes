@@ -5,7 +5,7 @@ Author: shane doucette
 I had extra pickerel this evening, so I decided to make something a little different.  This stew was pretty rich tasting, and very filling.  It would be very tasty with fresh biscuits, or bannock. 
 
 ## Source
-Simply Recipes ([http://www.simplyrecipes.com/recipes/dads_fish_stew/](http://www.simplyrecipes.com/recipes/dads_fish_stew/))
+Based on [Dad's Fish Stew](http://www.simplyrecipes.com/recipes/dads_fish_stew/) from Simply Recipes.
 
 ## Ingredients
 + 1 Tbsp olive oil
