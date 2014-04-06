@@ -18,7 +18,7 @@ Allrecipes?
 
 ## Directions
 Whisk together flour, sugar, baking powder and salt in a small bowl. In a 
-separate bowl, whisk together Pure Almond, oil and egg. Add flour mixture to 
+separate bowl, whisk together milk, oil and egg. Add flour mixture to 
 egg mixture and stir just to moisten - a few lumps are fine. Cook pancakes on 
 a griddle over medium heat.
 
