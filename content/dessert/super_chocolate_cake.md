@@ -14,6 +14,7 @@ Mom / Best of Bridge
 + 1/2 cup cocoa - fill with boiling water to make one cup of liquid
 + 1 tsp baking powder
 + 1/2 tsp soda
++ 1 cup flour
 + 1/2 cup boiling water
 
 ## Directions
