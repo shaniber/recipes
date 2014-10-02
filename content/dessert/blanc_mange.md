@@ -3,10 +3,8 @@ Date: 2013-07-13 08:53
 Author: shane doucette  
 
 ## Source
-<<<<<<< HEAD
 {PERSON OR SOURCE NAME}  
 =======
->>>>>>> 60a0668afdb214ada9f860683af383727fccf33c
 [NoFiller on Instructables](http://www.instructables.com/id/Pudding-from-Scratch/)
 
 ## Ingredients
