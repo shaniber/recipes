@@ -2,10 +2,13 @@ Title: Meat Chili
 Date: 2013-07-15 21:22  
 Author: shane doucette   
 
+
 This chili was originally built around a moose / pork mixture, but works very well with any meat.  It has a slow building heat, letting you taste all the other flavours first before it slaps you lightly in the mouth.  It can be started the night before, to have it ready for lunch the next day.
+
 
 ## Source
 based on [BS-Free Chili Recipe](http://foodists.ca/2009/09/25/bullshit-free-moose-chili-recipe.html)
+
 
 ## Ingredients
 
@@ -50,6 +53,7 @@ In a crock or stock pot, add the bacon/onion/garlic mixture.  Add the tomatoes, 
 Add the peppers, half of the spices, and brown sugar.  Bring to a simmer on high.  After at least two hours, add the second of the spices.  An hour before serving, add the maple beans and maple syrup.  Finally, just before serving, taste to make sure that the heat is as desired.
 
 Serve in bowls, with waffles on the side.
+
 
 ## Yield
 Enough chili to feed at least 6 people with leftovers for breakfast the next day.

@@ -1,11 +1,11 @@
 Title: Creamy Rice Pudding  
-Date: 2013-03-26 12:00
-Author: shane doucette
+Date: 2013-03-26 12:00  
+Author: shane doucette  
 
-# Creamy Rice Pudding
 
 ## Source
 Currently unknown
+
 
 ## Ingredients
 + 3/4 c uncooked white rice
@@ -17,6 +17,7 @@ Currently unknown
 + 1 T butter
 + 1/2 t vanilla extract
 
+
 ## Directions
 Bring 1 1/2 cups water to a boil in a saucepan; stir rice into boiling 
 water. Reduce heat to low, cover, and simmer for 20 minutes.
@@ -26,6 +27,7 @@ sugar and salt. Cook over medium heat until thick and creamy, 15 to 20
 minutes. Stir in remaining 1/2 cup milk, beaten egg, and raisins; cook 2 
 minutes more, stirring constantly. Remove from heat and stir in butter and 
 vanilla.
+
 
 ## Yield
 4 servings

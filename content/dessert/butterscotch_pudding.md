@@ -1,9 +1,11 @@
-Title: Butterscotch Pudding
+Title: Butterscotch Pudding  
 Date: 2013-09-22 13:34  
 Author: shane doucette  
 
+
 ## Source
 [Sheri Silver on Yahoo! Shine](http://shine.yahoo.com/shine-food/happy-national-butterscotch-pudding-day-celebrate-butterscotch-pudding-191200885.html)
+
 
 ## Ingredients
 + 2 cups heavy cream (divided)
@@ -13,6 +15,7 @@ Author: shane doucette
 + 4 egg yolks, room temperature
 + ¼ cup cornstarch
 + ¾ tsp kosher salt 
+
 
 ## Directions
 Place egg yolks in a large metal bowl; whisk lightly and set aside.  
@@ -28,6 +31,7 @@ Pour the pudding into six 8-ounce ramekins. If you want to avoid skin, immediate
 Beat remaining ¾ cup heavy cream till soft peaks form. Serve puddings with whipped cream and a little cinnamon or grated nutmeg.
 
 (Optional) If making pudding pops, pour pudding into popsicle molds, add sticks and freeze.
+
 
 ## Yield
 Six 8-ounce servings.

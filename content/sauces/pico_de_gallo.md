@@ -2,8 +2,10 @@ Title: Pico de Gallo
 Date: 2013-04-16 12:30  
 Author: shane doucette  
 
+
 ## Source
 [Inspired by this AllRecipes recipe.](http://allrecipes.com/Recipe/Pico-de-Gallo-3/Detail.aspx)
+
 
 ## Ingredients
 + 6 roma (plum) tomatoes, diced
@@ -17,8 +19,10 @@ Author: shane doucette
 + 1 pinch ground cumin
 + salt and ground black pepper to taste
 
+
 ## Directions
 Combine all incredients together in a bowl. Refrigerate at least 3 hours before serving.
+
 
 ## Yield
 3 cups
