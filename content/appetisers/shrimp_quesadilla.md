@@ -2,8 +2,10 @@ Title: Shrimp Quesadilla
 Date: 2013-04-17 12:30  
 Author: shane doucette  
 
+
 ## Source
 Inspired by a recipe at [Simply Recipes](http://www.simplyrecipes.com/recipes/shrimp_quesadilla/)
+
 
 ## Ingredients
 + 1 pound of medium-small shrimp, peeled and deveined
@@ -11,6 +13,7 @@ Inspired by a recipe at [Simply Recipes](http://www.simplyrecipes.com/recipes/sh
 + 4 Tbsp of lime or lemon juice
 + 8 flour tortillas
 + 1 cup shredded Monterey Jack cheese
+
 
 ## Directions
 If you are starting with frozen raw shrimp, defrost them by placing them in a bowl of ice water until defrosted. Then poach the raw shrimp for 1 to 2 minutes in boiling water, remove from pan with a slotted spoon, and rinse under cold water to stop the cooking. If you are starting with frozen cooked shrimp, you can defrost them in a bowl of ice water or lemon juice with ice.
@@ -24,6 +27,7 @@ Sprinkle the tortilla with the grated cheese. Distribute the shrimp mixture on t
 You can also use just one tortilla instead of two, and fold the tortilla over itself like an omelette.
 
 Cut like a pie into six pieces. A pizza wheel works well for this. Place on a serving plate. Serve with avocado slices and sour cream. Garnish with chopped fresh cilantro.
+
 
 ## Yield
 4 servings.

@@ -2,13 +2,14 @@ Title: Tomato Soup with Grilled Cheese Croutons
 Date: 2013-03-26 12:00  
 Author: shane doucette  
 
-# Tomato Soup with Grilled Cheese Croutons
 
 ## Source: 
 [http://tideandthyme.com/tomato-soup-with-grilled-cheese-croutons/](http://tideandthyme.com/tomato-soup-with-grilled-cheese-croutons/)
 
+
 ## Ingredients
-###For the soup:
+
+#### For the soup:
 + 3    Tbsp        olive oil
 + 3    cups        yellow onions, chopped (2 onions)
 + 1    Tbsp        minced garlic (3 cloves)
@@ -20,10 +21,11 @@ Author: shane doucette
 + 1/2  cup         heavy cream
 + basil or parsley, minced (for garnish)
 
-### For the croutons:
+#### For the croutons:
 + 4    slices      country white bread
 + 2    Tbsp        butter, softened
 + 4    slices      yellow American cheese
+
 
 ## Directions
 In a large pot or Dutch oven, heat the olive oil over medium heat. 
@@ -47,6 +49,7 @@ into 1-inch cubes.
 
 Ladle soup into bowls, top with grilled cheese croutons, and garnish with 
 chopped fresh basil or parsley.
+
 
 ## Yield
 4 bowls

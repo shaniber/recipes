@@ -1,9 +1,11 @@
-Title: Blanc Mange
+Title: Blanc Mange  
 Date: 2013-07-13 08:53  
 Author: shane doucette  
 
+
 ## Source
 [NoFiller on Instructables](http://www.instructables.com/id/Pudding-from-Scratch/)
+
 
 ## Ingredients
 + 1 cup milk (1%-3%)
@@ -12,6 +14,7 @@ Author: shane doucette
 + 1/8 cup sugar
 + pinch salt (op)
 + 1 tsp butter (op)
+
 
 ## Directions
 In a heatproof bowlm whisk together cornstarch, sugar, egg  yolks, salt, and a splash of milk.
@@ -34,11 +37,14 @@ Push the cooked pudding through a strainer to catch any inevitable lumps.
 
 To finish the pudding stir in butter (optional but adds a nice shine) and any desired flavourings. Cover with plastic wrap to prevent a skin forming, and refrigerate a few hours until cool and set.
 
+
 ### Chocolate Pudding:
 Stir chopped chocolate into hot pudding. Allow an ounce or two per cup of milk. Use a good quality chocolate that you would eat plain.
 
+
 ### Vanilla Pudding:
 Stir in a splash of good quality vanilla extract. Allow a teaspoon or so per cup of milk.
+
 
 ## Yield
 2 servings.

@@ -2,10 +2,10 @@ Title: Classic Pancakes
 Date: 2013-03-26 12:00  
 Author: shane doucette  
 
-# Classic Pancakes
 
 ## Source
 Allrecipes?
+
 
 ## Ingredients
 + 2 c unbleached all-purpose flour or whole wheat pastry flour
@@ -16,11 +16,13 @@ Allrecipes?
 + 1/4 c canola oil
 + 2 egg
 
+
 ## Directions
 Whisk together flour, sugar, baking powder and salt in a small bowl. In a 
 separate bowl, whisk together milk, oil and egg. Add flour mixture to 
 egg mixture and stir just to moisten - a few lumps are fine. Cook pancakes on 
 a griddle over medium heat.
+
 
 ## Yield
 16 - 20 pancakes.
