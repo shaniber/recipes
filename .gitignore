@@ -2,3 +2,9 @@
 output
 *.pyc
 *.pid
+
+# dumb os x files.
+.DS_Store
+
+# dumb vim backup files.
+*.sw?
