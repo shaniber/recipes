@@ -9,14 +9,16 @@ Author: shane doucette
 
 
 ## Ingredients
-+ 8 oz. sour cream
-+ 8 oz. cream cheese
-+ 16 oz. cheddar cheese, grated (sharp or mild)
-+ 4 oz. chopped green chilies
-+ Green onion (suit your own taste)
-+ 1 c. chopped ham
-+ 1/2 pound chopped bacon
-+ 1 round bread loaf, hollowed out
+~~~~
++ 8    oz      sour cream
++ 8    oz      cream cheese
++ 16   oz      cheddar cheese, grated (sharp or mild)
++ 4    oz      chopped green chilies
++              Green onion (suit your own taste)
++ 1    c       chopped ham
++ ½    lb      chopped bacon
++ 1            round bread loaf, hollowed out
+~~~~
 
 
 ## Directions

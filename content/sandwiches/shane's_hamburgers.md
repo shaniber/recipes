@@ -8,6 +8,7 @@ Me!
 
 
 ## Ingredients
+~~~~
 + 1 pound hamburger
 + 1 egg
 + 1/2 cup oats (or bread crumbs)
@@ -16,6 +17,7 @@ Me!
 + onion powder
 + garlic powder
 + salt and pepper to taste
+~~~~
 
 
 ## Directions

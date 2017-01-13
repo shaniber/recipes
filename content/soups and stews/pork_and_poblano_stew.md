@@ -9,6 +9,7 @@ Date: 2013-03-27 12:00
 
 
 ## Ingredients
+~~~~
 + 4 to 5 poblano chile peppers (about 3/4 pound)
 + 1 Tbsp vegetable oil
 + 2 1/2 pounds pork shoulder, trimmed, cut into 1 to 2 inch pieces
@@ -24,6 +25,7 @@ Date: 2013-03-27 12:00
 + Sour cream
 + Cilantro
 + Toasted shelled pumpkin seeds (pepitas) Optional
+~~~~
 
 
 ## Directions

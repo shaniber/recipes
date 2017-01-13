@@ -8,6 +8,7 @@ Tracey Maughn-Haubrich
 
 
 ## Ingredients
+~~~~
 + 1/2 cup butter / margarine / applesauce
 + 1 cup sugar
 + 2 eggs
@@ -20,6 +21,7 @@ Tracey Maughn-Haubrich
 Optional
 + 1 cup chopped walnuts
 + 3/4 cup semisweet chocolate chips
+~~~~
 
 
 ## Directions

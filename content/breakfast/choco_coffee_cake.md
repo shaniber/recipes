@@ -8,6 +8,7 @@ Company's Coming - Muffins and More
 
 
 ## Base Ingredients
+~~~~
 + 1/2 c butter or margarine
 + 1 c granulated sugar
 + 2 eggs
@@ -17,14 +18,17 @@ Company's Coming - Muffins and More
 + 1 tsp baking powder
 + 1 c sour cream
 + 1/2 c chocolate chips
+~~~~
 
 
 ## Topping Ingredients:
+~~~~
 + 1/2 c packed brown sugar
 + 1/2 c all purpose flour
 + 1/4 c butter or margarine
 + 1/2 c chocolate chips
 + 1/2 c chopped nuts
+~~~~
 
 
 ## Instructions

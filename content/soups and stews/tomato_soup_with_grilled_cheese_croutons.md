@@ -10,6 +10,7 @@ Author: shane doucette
 ## Ingredients
 
 #### For the soup:
+~~~~
 + 3    Tbsp        olive oil
 + 3    cups        yellow onions, chopped (2 onions)
 + 1    Tbsp        minced garlic (3 cloves)
@@ -20,11 +21,14 @@ Author: shane doucette
 + 1/2  cup         orzo
 + 1/2  cup         heavy cream
 + basil or parsley, minced (for garnish)
+~~~~
 
 #### For the croutons:
+~~~~
 + 4    slices      country white bread
 + 2    Tbsp        butter, softened
 + 4    slices      yellow American cheese
+~~~~
 
 
 ## Directions

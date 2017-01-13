@@ -8,6 +8,7 @@ Author: shane doucette
 
 
 ## Ingredients
+~~~~
 + 6 roma (plum) tomatoes, diced
 + 1/2 red onion, minced
 + 1/3 red, yellow, and orange peppers
@@ -18,6 +19,7 @@ Author: shane doucette
 + 1 pinch garlic powder
 + 1 pinch ground cumin
 + salt and ground black pepper to taste
+~~~~
 
 
 ## Directions

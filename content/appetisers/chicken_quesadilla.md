@@ -8,15 +8,17 @@ Inspired by a recipe at [AllRecipes](http://allrecipes.com/Recipe/Pico-de-Gallo-
 
 
 ## Ingredients
-+ 1.5 cups pico de gallo
-+ 2 tablespoons olive oil, divided
-+ 2 skinless, boneless chicken breast halves - cut into strips
-+ 1/2 onion, thinly sliced
-+ 1 green bell pepper, thinly sliced
-+ 2 cloves garlic, minced
-+ 8 (12 inch) flour tortillas
-+ 1 cup shredded Monterey Jack cheese
-+ 1/4 cup sour cream, for topping
+~~~~
++ 1½   cups    pico de gallo
++ 2    tbsp    olive oil, divided
++ 2            skinless, boneless chicken breast halves - cut into strips
++ ½            onion, thinly sliced
++ 1            green bell pepper, thinly sliced
++ 2            cloves garlic, minced
++ 8    12 in   flour tortillas
++ 1    cup     shredded Monterey Jack cheese
++ ¼    cup     sour cream, for topping
+~~~~
 
 
 ## Directions

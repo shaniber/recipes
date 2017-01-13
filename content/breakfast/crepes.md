@@ -10,6 +10,7 @@ Adapted from Martha Stewart and Alton Brown
 
 
 ## Ingredients
+~~~~
 + 2 large eggs
 + 1.5 cups milk (any kind)
 + 1 cup flour
@@ -18,6 +19,7 @@ Adapted from Martha Stewart and Alton Brown
 + 2 Tbsp sugar (optional)
 + 1 tsp vanilla extract (optional)
 + butter for coating the pan
+~~~~
 
 
 ## Directions

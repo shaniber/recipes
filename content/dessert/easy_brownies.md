@@ -8,6 +8,7 @@ Author: shane doucette
 
 
 ## Ingredients
+~~~~
 + 1/2 cup butter, melted
 + 1 cups sugar
 + 2 eggs
@@ -16,6 +17,7 @@ Author: shane doucette
 + 1/2 cup flour
 + 1/4 tsp salt
 + 1/2 tsp baking powder
+~~~~
 
 
 ## Directions

@@ -8,6 +8,7 @@ Author: shane doucette
 
 
 ## Ingredients
+~~~~
 + 2 cups heavy cream (divided)
 + 6 tbsp unsalted butter
 + 1½ cup dark brown sugar
@@ -15,6 +16,7 @@ Author: shane doucette
 + 4 egg yolks, room temperature
 + ¼ cup cornstarch
 + ¾ tsp kosher salt 
+~~~~
 
 
 ## Directions

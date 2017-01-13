@@ -8,6 +8,7 @@ Based on [oh she glows' Perfect Veggie Burger](http://ohsheglows.com/2011/07/13/
 
 
 ## Ingredients
+~~~~
 + 1/2 cup onion, diced
 + 1 large garlic clove, minced
 + Flax eggs: 2.5 tbsp ground flax + 1/2 cup warm water, mixed in bowl
@@ -25,6 +26,7 @@ Based on [oh she glows' Perfect Veggie Burger](http://ohsheglows.com/2011/07/13/
 + 1 tsp. cumin
 + 1 tsp. oregano
 + Fine grain sea salt and black pepper, to taste
+~~~~
 
 
 ## Directions

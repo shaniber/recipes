@@ -9,10 +9,12 @@ Cook's Illustrated
 
 
 ## Ingredients
+~~~~
 + 10-12 medium lemons, scrubbed well, halved pole to pole, sliced thin
 + 1 1/4 c granulated sugar
 + pinch table salt (optional)
 + 1.25 L  water (cold)
+~~~~
 
 
 ## Directions
