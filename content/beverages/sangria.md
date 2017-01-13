@@ -9,12 +9,12 @@ Author: shane doucette
 
 ## Ingredients
 ~~~~
-+ 1 1.5 L Bottle of red wine
-+ 1 1/2 lemons cut into wedges
-+ 1 1/2 oranges cut into wedges
-+ 2 oz vodka
-+ 1 L ginger ale or club soda
-+ 4 Tbsp sugar (optional)
++ 1½    L      Bottle of red wine
++ 1½           lemons cut into wedges
++ 1½           oranges cut into wedges
++ 2     oz     vodka
++ 1     L      ginger ale or club soda
++ 4     tbsp   sugar (optional)
 ~~~~
 
 

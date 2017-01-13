@@ -9,10 +9,10 @@ Author: shane doucette
 
 ## Ingredients
 ~~~~
-+ Lemons to yield about 2 1/2 cups juice
-+ 1 KG white sugar
-+ 2 L water
-+ 2 t citric acid (optional)
++              Lemons to yield about 2 1/2 cups juice
++ 1    kg      white sugar
++ 2    L       water
++ 2    tsp     citric acid (optional)
 ~~~~
 
 
