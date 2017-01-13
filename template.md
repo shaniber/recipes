@@ -9,10 +9,12 @@ PERSON OR SOURCE NAME
 
 
 ## Ingredients
-+ 1/2 cup ingredient one
-+ 1 cups ingredient two
-+ 2 ingredient three
-+ 1 tsp ingredient four
+~~~~
++ ½    cup     ingredient one
++ 1¼   cups    ingredient two
++ 2            ingredient three
++ 1    tsp     ingredient four
+~~~~
 
 
 ## Directions
