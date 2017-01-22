@@ -9,11 +9,11 @@ Author: shane doucette
 
 ## Ingredients
 ~~~~
-+ 6 ounces of chocolate chips (semi-sweet)
-+ 4 or 5 slices of smoked bacon
-+ 2 oz unsalted butter
-+ 2 tbsp honey
-+ 2 oz flaked almonds
++ 6    oz i    chocolate chips (semi-sweet)
++ 5            slices of smoked bacon
++ 2    oz      unsalted butter
++ 2    tbsp    honey
++ 2    oz      flaked almonds
 ~~~~
 
 

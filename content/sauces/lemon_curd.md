@@ -9,11 +9,11 @@ Author: shane doucette
 
 ## Ingredients
 ~~~~
-+ 3 unwaxed lemons
-+ 200 grams caster sugar
-+ 115 grams Unsalted butter, diced
-+ 2 large eggs
-+ 2 large egg yolks
++ 3            unwaxed lemons
++ 200  g       caster sugar
++ 115  g       unsalted butter, diced
++ 2            large eggs
++ 2            large egg yolks
 ~~~~
 
 

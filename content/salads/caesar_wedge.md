@@ -9,11 +9,11 @@ Inspired by numerous wedge salad recipes.
 
 ## Ingredients
 ~~~~
-+ 1 romaine lettuce heart.
-+ 75 ml caesar dressing
-+ 6 slices of bacon, crumbled
-+ 30 grams of parmesan cheese
-+ red onion, sliced in halved rings (optional)
++ 1            romaine lettuce heart.
++ 75   ml      caesar dressing
++ 6            slices of bacon, crumbled
++ 30   g       parmesan cheese
++              red onion, sliced in halved rings (optional)
 ~~~~
 
 

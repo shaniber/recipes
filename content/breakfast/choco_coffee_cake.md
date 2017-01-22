@@ -4,30 +4,30 @@ Author: brady smith
 
 
 ## Source
-Company's Coming - Muffins and More
+Company\'s Coming - Muffins and More
 
 
 ## Base Ingredients
 ~~~~
-+ 1/2 c butter or margarine
-+ 1 c granulated sugar
-+ 2 eggs
-+ 1 tsp vanilla
-+ 2 c all purpose flour
-+ 1 tsp baking soda
-+ 1 tsp baking powder
-+ 1 c sour cream
-+ 1/2 c chocolate chips
++ ½    c       butter or margarine
++ 1    c       granulated sugar
++ 2            eggs
++ 1    tsp     vanilla
++ 2    c       all purpose flour
++ 1    tsp     baking soda
++ 1    tsp     baking powder
++ 1    c       sour cream
++ ½    c       chocolate chips
 ~~~~
 
 
 ## Topping Ingredients:
 ~~~~
-+ 1/2 c packed brown sugar
-+ 1/2 c all purpose flour
-+ 1/4 c butter or margarine
-+ 1/2 c chocolate chips
-+ 1/2 c chopped nuts
++ ½    c       packed brown sugar
++ ½    c       all purpose flour
++ ¼    c       butter or margarine
++ ½    c       chocolate chips
++ ½    c       chopped nuts
 ~~~~
 
 

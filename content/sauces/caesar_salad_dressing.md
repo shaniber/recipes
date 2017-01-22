@@ -10,13 +10,13 @@ Author: shane doucette
 ## Ingredients
 ~~~~
 + 2 small garlic cloves, minced
-+ 30 ml freshly squeezed lemon juice, from one lemon
-+ 5 ml Dijon mustard
-+ 5 ml Worcestershire sauce
-+ 250 ml mayonnaise
-+ 125 ml freshly grated Parmigiano-Reggiano
-+ salt and pepper to taste
-+ 1 teaspoon anchovy paste (found near the canned tuna in the supermarket)
++ 30   ml      freshly squeezed lemon juice, from one lemon
++ 5    ml      Dijon mustard
++ 5    ml      Worcestershire sauce
++ 250  ml      mayonnaise
++ 125  ml      freshly grated Parmigiano-Reggiano
++              salt and pepper to taste
++ 5    ml      anchovy paste (found near the canned tuna in the supermarket)
 ~~~~
 
 ### Substitutions
@@ -34,4 +34,4 @@ Mix together all the ingredients, adjusting the amounts to your taste. Serve imm
 
 
 ## Yield
-10, of about 30 ml apiece.
+10 servings, of about 30 ml apiece.
