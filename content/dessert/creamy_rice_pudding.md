@@ -10,15 +10,16 @@ Jennifer Korpak Bechtel on AllRecipes.
 
 ## Ingredients
 ~~~~
-+ 1½   cup  cooked white rice
-+ 2    cup  milk, divided
-+ ⅓    cup  white sugar
-+ ¼    tsp  salt
-+ 1         egg, beaten
-+ ⅔    cup  golden raisins
-+ 1    tbsp butter
-+ ½    tsp  vanilla extract
++ 1½   cup     cooked white rice
++ 2    cup     milk, divided
++ ⅓    cup     white sugar
++ ¼    tsp     salt
++ 1            egg, beaten
++ ⅔    cup     golden raisins
++ 1    tbsp    butter
++ ½    tsp     vanilla extract
 ~~~~
+
 
 ## Directions
 Prepare your rice as per package directions, or use leftover rice from your dinner.
