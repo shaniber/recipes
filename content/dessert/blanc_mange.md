@@ -8,12 +8,14 @@ Author: shane doucette
 
 
 ## Ingredients
-+ 1 cup milk (1%-3%)
-+ 1 egg yolk
-+ 1 tbsp corn starch
-+ 1/8 cup sugar
-+ pinch salt (op)
-+ 1 tsp butter (op)
+~~~~
++ 1    cup     milk (1%-3%)
++ 1            egg yolk
++ 1    tbsp    corn starch
++ ⅛    cup     sugar
++              pinch salt (op)
++ 1    tsp     butter (op)
+~~~~
 
 
 ## Directions

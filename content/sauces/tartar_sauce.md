@@ -8,12 +8,14 @@ Doucette Family
 
 
 ## Ingredients
-+ 1 tbsp lemon juice
-+ 1 hard boiled egg, finely diced
-+ 1.5 tbsp white onion, finely diced
-+ 1 tbsp sweet pickle relish
-+ 3 tbsp mayo
-+ salt and pepper to taste
+~~~~
++ 1    tbsp    lemon juice
++ 1            hard boiled egg, finely diced
++ 1½   tbsp    white onion, finely diced
++ 1    tbsp    sweet pickle relish
++ 3    tbsp    mayo
++              salt and pepper to taste
+~~~~
 
 
 ## Directions

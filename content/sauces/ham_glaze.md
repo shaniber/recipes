@@ -8,13 +8,15 @@ Jennifer Korney
 
 
 ## Ingredients
-+ 1 ltr apple juice
-+ 1 ltr liquid honey
-+ 2 cups golden yellow sugar
-+ 1 cup Dijon mustard
-+ ¼ cup grainy mustard
-+ 1 tbsp ground ginger
-+ 1 tbsp ground cinnamon
+~~~~
++ 1    L       apple juice
++ 1    L       liquid honey
++ 2    cup     golden yellow sugar
++ 1    cup     Dijon mustard
++ ¼    cup     grainy mustard
++ 1    tbsp    ground ginger
++ 1    tbsp    ground cinnamon
+~~~~
 
 
 ## Directions

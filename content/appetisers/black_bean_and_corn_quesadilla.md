@@ -8,16 +8,18 @@ Inspired by a recipe at [AllRecipes](http://allrecipes.com/Recipe/Black-Bean-and
 
 
 ## Ingredients
-+ 1 (15.5 ounce) can black beans, drained and rinsed
-+ 1 (10 ounce) can whole kernel corn, drained
-+ 8 (12 inch) flour tortillas
-+ 1 1/2 cups shredded Monterey Jack cheese, divided
-+ 1 tablespoon brown sugar
-+ 2 teaspoons olive oil
-+ 3 tablespoons finely chopped onion
-+ 1 1/2 cup pico de gallo
-+ 1/4 teaspoon red pepper flakes (optional)
-+ 2 tablespoons butter, divided
+~~~~
++ 1    15.5 oz can black beans, drained and rinsed
++ 1    10 oz   can whole kernel corn, drained
++ 8    12 in   flour tortillas
++ 1½   cups    shredded Monterey Jack cheese, divided
++ 1    tbsp    brown sugar
++ 2    tsp     olive oil
++ 3    tbsp    finely chopped onion
++ 1½   cup     pico de gallo
++ ¼    tsp     red pepper flakes (optional)
++ 2    tbsp    butter, divided
+~~~~
 
 
 ## Directions

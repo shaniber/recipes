@@ -9,21 +9,23 @@ Date: 2013-03-27 12:00
 
 
 ## Ingredients
-+ 4 to 5 poblano chile peppers (about 3/4 pound)
-+ 1 Tbsp vegetable oil
-+ 2 1/2 pounds pork shoulder, trimmed, cut into 1 to 2 inch pieces
+~~~~
++ 4-5          poblano chile peppers (about 3/4 pound)
++ 1    Tbsp    vegetable oil
++ 2½   pounds  pork shoulder, trimmed, cut into 1 to 2 inch pieces
 + Salt
-+ 1 large onion, chopped (about 2 cups)
-+ 3 to 4 garlic cloves, minced
-+ 1 teaspoon cumin
-+ 1 chipotle chili in adobo, minced
-+ 1 Tbsp dried oregano
-+ 1 quart chicken stock (use gluten-free stock for gluten-free option)
-+ 1 1/2 cups fresh or frozen corn (no need to defrost if frozen)
-+ 1 large (about 1/2 pound) sweet potato, peeled and diced (about 1/2 to 3/4-inch cubes)
-+ Sour cream
-+ Cilantro
-+ Toasted shelled pumpkin seeds (pepitas) Optional
++ 1            large onion, chopped (about 2 cups)
++ 3-4          garlic cloves, minced
++ 1    tsp     cumin
++ 1            chipotle chili in adobo, minced
++ 1    Tbsp    dried oregano
++ 1    quart   chicken stock (use gluten-free stock for gluten-free option)
++ 1½   cup     fresh or frozen corn (no need to defrost if frozen)
++ 1            large (about ½ pound) sweet potato, peeled and diced (about ½ to ¾-inch cubes)
++              Sour cream
++              Cilantro
++              Toasted shelled pumpkin seeds (pepitas) Optional
+~~~~
 
 
 ## Directions

@@ -8,16 +8,18 @@ Author: shane doucette
 
 
 ## Ingredients
-+ 6 roma (plum) tomatoes, diced
-+ 1/2 red onion, minced
-+ 1/3 red, yellow, and orange peppers
-+ 3 tablespoons chopped fresh cilantro
-+ 1 jalapeno pepper, seeded and minced
-+ 2 limes, juiced
-+ 1 clove garlic, minced
-+ 1 pinch garlic powder
-+ 1 pinch ground cumin
-+ salt and ground black pepper to taste
+~~~~
++ 6            roma (plum) tomatoes, diced
++ ½            red onion, minced
++ ⅓            red, yellow, and orange peppers
++ 3    tbsp    chopped fresh cilantro
++ 1            jalapeno pepper, seeded and minced
++ 2            limes, juiced
++ 1            clove garlic, minced
++ 1    pinch   garlic powder
++ 1    pinch   ground cumin
++              salt and ground black pepper to taste
+~~~~
 
 
 ## Directions

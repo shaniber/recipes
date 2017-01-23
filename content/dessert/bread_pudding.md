@@ -8,23 +8,28 @@ Facebooks.
 
 
 ## Ingredients
+
 ### Pudding Ingredients
-+ 4 cup cubed white bread
-+ ½ cup raisins
-+ 2 cup milk
-+ ¼ cup butter
-+ ½ cup sugar
-+ 2 eggs slightly beaten
-+ 1 tbsp vanilla
-+ ½ tsp nutmeg
-+ 1 tsp cinnamon
+~~~~
++ 4    cup     cubed white bread
++ ½    cup     raisins
++ 2    cup     milk
++ ¼    cup     butter
++ ½    cup     sugar
++ 2            eggs slightly beaten
++ 1    tbsp    vanilla
++ ½    tsp     nutmeg
++ 1    tsp     cinnamon
+~~~~
 
 ### Sauce Ingredients
-+ ½ cup butter
-+ ½ cup sugar
-+ ½ cup firmly packed brown sugar
-+ ½ cup heavy whipping cream
-+ 1 tbsp vanilla
+~~~~
++ ½    cup     butter
++ ½    cup     sugar
++ ½    cup     firmly packed brown sugar
++ ½    cup     heavy whipping cream
++ 1    tbsp    vanilla
+~~~~
 
 
 ## Directions
