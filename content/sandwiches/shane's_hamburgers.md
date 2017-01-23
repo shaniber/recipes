@@ -9,14 +9,14 @@ Me!
 
 ## Ingredients
 ~~~~
-+ 1 pound hamburger
-+ 1 egg
-+ 1/2 cup oats (or bread crumbs)
-+ 8 splashes Worcestershire sauce
-+ 1 Tbsp brown sugar
-+ onion powder
-+ garlic powder
-+ salt and pepper to taste
++ 1    lb      hamburger
++ 1            egg
++ ½    c       oats (or bread crumbs)
++ 1½   tsp     Worcestershire sauce
++ 1    tbsp    brown sugar
++              onion powder
++              garlic powder
++              salt and pepper to taste
 ~~~~
 
 
