@@ -5,7 +5,7 @@ AUTHOR = u'shane doucette'
 SITENAME = u'recipe box'
 SITEURL = 'http://tauntedechoes.com/rb'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Regina'
 
 DEFAULT_LANG = u'en'
 
