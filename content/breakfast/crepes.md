@@ -14,9 +14,9 @@ Adapted from Martha Stewart and Alton Brown
 + 2            large eggs
 + 1½    c      milk (any kind)
 + 1     c      flour
-+ 3     Tbsp   melted butter
++ 3     tbsp   melted butter
 + ¼     tsp    salt
-+ 2     Tbsp   sugar (optional)
++ 2     tbsp   sugar (optional)
 + 1     tsp    vanilla extract (optional)
 +              butter for coating the pan
 ~~~~
