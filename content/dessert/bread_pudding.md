@@ -24,10 +24,10 @@ Facebooks.
 
 ### Sauce Ingredients
 ~~~~
-+ ½    c       butter
-+ ½    c       sugar
-+ ½    c       firmly packed brown sugar
-+ ½    c       heavy whipping cream
++ ½    cup     butter
++ ½    cup     sugar
++ ½    cup     firmly packed brown sugar
++ ½    cup     heavy whipping cream
 + 1    tbsp    vanilla
 ~~~~
 
