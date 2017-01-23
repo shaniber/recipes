@@ -9,12 +9,12 @@ Author: shane doucette
 
 ## Ingredients
 ~~~~
-+ ½    c       butter, melted
-+ 1    c       sugar
++ ½    cup     butter, melted
++ 1    cup     sugar
 + 2            eggs
 + 1    tsp     vanilla extract
-+ ⅓    c       cocoa powder
-+ ½    c       flour
++ ⅓    cup     cocoa powder
++ ½    cup     flour
 + ¼    tsp     salt
 + ½    tsp     baking powder
 ~~~~

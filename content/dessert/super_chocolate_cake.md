@@ -9,7 +9,7 @@ Mom / Best of Bridge
 
 ## Ingredients
 ~~~~
-+ 1    c       white sugar
++ 1    cup     white sugar
 + 3    tbsp    butter
 + 1            egg
 + ½    cup     cocoa - fill with boiling water to make one cup of liquid

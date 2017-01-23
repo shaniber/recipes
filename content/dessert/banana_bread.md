@@ -9,18 +9,18 @@ Tracey Maughn-Haubrich
 
 ## Ingredients
 ~~~~
-+ ½    c       butter / margarine / applesauce
-+ 1    c       sugar
++ ½    cup     butter / margarine / applesauce
++ 1    cup     sugar
 + 2            eggs
 + 3            mashed bananas
-+ 2    c       flour
++ 2    cup     flour
 + 1    tsp     baking soda
 + 1    tsp     baking powder
 + ½    tsp     salt
 
 Optional
-+ 1    c       chopped walnuts
-+ ¾    c       semisweet chocolate chips
++ 1    cup     chopped walnuts
++ ¾    cup     semisweet chocolate chips
 ~~~~
 
 

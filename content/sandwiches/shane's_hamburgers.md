@@ -11,7 +11,7 @@ Me!
 ~~~~
 + 1    lb      hamburger
 + 1            egg
-+ ½    c       oats (or bread crumbs)
++ ½    cup     oats (or bread crumbs)
 + 1½   tsp     Worcestershire sauce
 + 1    tbsp    brown sugar
 +              onion powder

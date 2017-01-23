@@ -12,14 +12,14 @@ Author: shane doucette
 #### For the soup:
 ~~~~
 + 3    tbsp    olive oil
-+ 3    c       yellow onions, chopped (2 onions)
++ 3    cup     yellow onions, chopped (2 onions)
 + 1    Tbsp    minced garlic (3 cloves)
-+ 4    c       chicken stock
++ 4    cup     chicken stock
 + 1    28oz    can    crushed tomatoes
 + 1    pinch   saffron threads
 +              kosher salt and black pepper
-+ ½  cup       orzo
-+ ½  cup       heavy cream
++ ½    cup     orzo
++ ½    cup     heavy cream
 +              basil or parsley, minced (for garnish)
 ~~~~
 

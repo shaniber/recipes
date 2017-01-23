@@ -13,21 +13,21 @@ Based on [Dad\'s Fish Stew](http://www.simplyrecipes.com/recipes/dads_fish_stew/
 ## Ingredients
 ~~~~
 + 1    tbsp    olive oil
-+ 1    c       shallots, chopped
++ 1    cup     shallots, chopped
 + 2            large garlic cloves, chopped
-+ ⅔    c       fresh parsley, chopped
-+ 1    c       mushrooms, sliced
++ ⅔    cup     fresh parsley, chopped
++ 1    cup     mushrooms, sliced
 + 2            large tomatoes, chopped
 + 1    5oz     can tomato paste
 + 8    oz      clam juice (or shellfish stock)
-+ ¼    c       white wine vinegar
++ ¼    cup     white wine vinegar
 + ½    lb      bacon, diced
 + 1            can of clams
 + 1½   lb      white fish fillets, cut into 1-inch pieces
 + 6            splashes Tabasco
 + 3            splashes Worcestershire sauce
 +      pinch   salt
-+ 2    c       baby potatoes, halved (optional)
++ 2    cup     baby potatoes, halved (optional)
 ~~~~
 
 

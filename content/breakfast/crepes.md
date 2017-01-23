@@ -12,8 +12,8 @@ Adapted from Martha Stewart and Alton Brown
 ## Ingredients
 ~~~~
 + 2            large eggs
-+ 1½    c      milk (any kind)
-+ 1     c      flour
++ 1½    cup    milk (any kind)
++ 1     cup    flour
 + 3     tbsp   melted butter
 + ¼     tsp    salt
 + 2     tbsp   sugar (optional)

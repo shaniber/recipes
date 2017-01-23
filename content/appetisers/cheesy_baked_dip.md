@@ -15,7 +15,7 @@ Author: shane doucette
 + 16   oz      cheddar cheese, grated (sharp or mild)
 + 4    oz      chopped green chilies
 +              Green onion (suit your own taste)
-+ 1    c       chopped ham
++ 1    cup     chopped ham
 + ½    lb      chopped bacon
 + 1            round bread loaf, hollowed out
 ~~~~

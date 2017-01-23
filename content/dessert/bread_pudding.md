@@ -11,11 +11,11 @@ Facebooks.
 
 ### Pudding Ingredients
 ~~~~
-+ 4    c       cubed white bread
-+ ½    c       raisins
-+ 2    c       milk
-+ ¼    c       butter
-+ ½    c       sugar
++ 4    cup     cubed white bread
++ ½    cup     raisins
++ 2    cup     milk
++ ¼    cup     butter
++ ½    cup     sugar
 + 2            eggs slightly beaten
 + 1    tbsp    vanilla
 + ½    tsp     nutmeg

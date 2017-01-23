@@ -9,17 +9,17 @@ Based on [oh she glows\' Perfect Veggie Burger](http://ohsheglows.com/2011/07/13
 
 ## Ingredients
 ~~~~
-+ ½    c       onion, diced
++ ½    cup     onion, diced
 + 1            large garlic clove, minced
 +              flax eggs (see below)
                  OR 3 large eggs
-+ 1    c       oats, processed into flour
-+ 1½   c       bread crumbs
-+ 1    c       grated carrots
-+ 1    c       cooked black beans, rinsed and roughly pureed or mashed
-+ ¼    c       finely chopped parsley (or fresh herb of choice)
-+ ⅓    c       almonds, chopped (toasted if preferred)
-+ ½    c       sunflower seeds, (toasted if preferred)
++ 1    cup     oats, processed into flour
++ 1½   cup     bread crumbs
++ 1    cup     grated carrots
++ 1    cup     cooked black beans, rinsed and roughly pureed or mashed
++ ¼    cup     finely chopped parsley (or fresh herb of choice)
++ ⅓    cup     almonds, chopped (toasted if preferred)
++ ½    cup     sunflower seeds, (toasted if preferred)
 + 1    tbsp    extra virgin olive oil
 + 1    tbsp    tamari (soy sauce)
 + 1½   tsp     chili powder
@@ -30,7 +30,7 @@ Based on [oh she glows\' Perfect Veggie Burger](http://ohsheglows.com/2011/07/13
 
 ### Flax Eggs
 + 2½   tbsp    ground flax 
-+ ½    c       warm water
++ ½    cup     warm water
 
 
 ## Directions
