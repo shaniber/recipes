@@ -17,6 +17,7 @@ Inspired by a recipe at [AllRecipes](http://allrecipes.com/Recipe/Pico-de-Gallo-
 + 2            cloves garlic, minced
 + 8    12 in   flour tortillas
 + 1    cup     shredded Monterey Jack cheese
++ 4    tbsp    butter
 + ¼    cup     sour cream, for topping
 ~~~~
 
@@ -26,7 +27,9 @@ In a large skillet, heat 1 tablespoon olive oil. Add chicken and saute until coo
 
 Put the remaining 1 tablespoon of olive oil in the hot skillet and saute the sliced onion and green pepper until tender. Stir in the minced garlic and saute until the aroma is strong. Mix in half of the pico de gallo and chicken breast meat. Set aside; keep warm.
 
-In a heavy skillet, heat one flour tortilla. Spread 1/4 cup shredded cheese on the tortilla and top with 1/2 the chicken mixture. Sprinkle another 1/4 cup cheese over the chicken and top with another tortilla. When bottom tortilla is lightly brown and cheese has started to melt, flip quesadilla and cook on the opposite side. Remove quesadilla from skillet and cut into quarters. Repeat with remaining ingredients. Serve quesadillas with sour cream and remaining pico de gallo.
+In a heavy skillet, melt ½ tbsp of butter, and place one flour tortilla. Spread, across half the tortilla, ⅛ cup shredded cheese and top with ¼ the chicken mixture. Sprinkle another ⅛ cup cheese over the chicken, and fold the tortilla in half. When bottom half is lightly brown and cheese has started to melt, flip quesadilla and cook on the opposite side. Repeat with remaining ingredients. 
+
+Slice into triangles, and serve with sour cream, salsa, or guacamole.
 
 
 ## Yield

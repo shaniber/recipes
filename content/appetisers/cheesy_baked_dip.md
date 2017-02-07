@@ -1,11 +1,11 @@
-Title: Cheesy Baked Dip  
+Title: OMG WUT Cheesy Baked Dip  
 Date: 2013-04-30 12:30  
 Author: shane doucette  
 
 
 ## Source
 [Amy Petty's shk](http://mlkshk.com/p/QKQ2)  
-[Tried and Tasty])http://triedandtasty.com/2011/01/cheesy-baked-dip/)
+[Tried and Tasty](http://triedandtasty.com/2011/01/cheesy-baked-dip/)
 
 
 ## Ingredients
