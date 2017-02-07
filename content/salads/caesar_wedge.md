@@ -13,12 +13,12 @@ Inspired by numerous wedge salad recipes.
 + 75   ml      caesar dressing
 + 6            slices of bacon, crumbled
 + 30   g       parmesan cheese
-+              red onion, sliced in halved rings (optional)
++ 2    tbsp    red onion, minced 
 ~~~~
 
 
 ## Directions
-Slice romain heads in half, and place on plate cut side up.  Drizzle with the dressing.  Sprinkle with half of the parmesan cheese and bacon.  Place four red onion ring halves across wedge.  Serve topped with fresh ground black pepper.
+Slice romain heads in half, and place on plate cut side up.  Drizzle with the dressing.  Sprinkle with half of the parmesan cheese and bacon. Sprinkle red onion across wedge.  Serve topped with fresh ground black pepper and garnish with red onion rings.
 
 
 ## Yield
