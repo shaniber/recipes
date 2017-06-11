@@ -1,6 +1,9 @@
+---
 Title: RECIPE TITLE  
 Date: 1974-04-12 10:34  
+Tags: tag-one, tag-two  
 Author: shane doucette  
+---
 
 # Recipe Title
 Optional recipe description and story can go here. Add pictures! Add tables! Add lists! Go wild, it's YOUR recipe! :)
