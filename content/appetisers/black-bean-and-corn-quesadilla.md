@@ -2,10 +2,16 @@ Title: Black Bean and Corn Quesadilla
 Date: 2013-04-16 12:30  
 Author: shane doucette  
 
+# Black Bean and Corn Quesadilla
+Prepared for zu Ladies Day 2013.
 
 ## Source
-Inspired by a recipe at [AllRecipes](http://allrecipes.com/Recipe/Black-Bean-and-Corn-Quesadillas/Detail.aspx)
+Inspired by a recipe at [AllRecipes](http://allrecipes.com/recipe/104850/black-bean-and-corn-quesadillas/)
 
+## Time
+Prep Time: 10 mins  
+Cook Time: 20 mins  
+Total Time: 30 mins  
 
 ## Ingredients
 ~~~~
@@ -21,7 +27,6 @@ Inspired by a recipe at [AllRecipes](http://allrecipes.com/Recipe/Black-Bean-and
 + 2    tbsp    butter, divided
 ~~~~
 
-
 ## Directions
 Heat oil in a large saucepan over medium heat. Stir in onion and red pepper flakes, and cook until softened, about 2 minutes. Stir in beans and corn, then add sugar and pico de gallo.  Mix well. Cook until heated through, about 3 minutes.
 
@@ -30,4 +35,4 @@ Melt 2 teaspoons of the butter in a large skillet over medium heat. Place a tort
 Slice into triangles, and serve with sour cream, salsa, or guacamole.
 
 ## Yield
-Four servings.
+Serves four.
