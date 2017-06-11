@@ -2,7 +2,8 @@
 Title: Black Bean and Corn Quesadilla
 Date: 2013-04-16 12:30
 Tags: appetiser, tex-mex, beans, corn, vegetarian
-Author: shane doucette  
+Author: shane doucette
+---
 
 # Black Bean and Corn Quesadilla
 Prepared for zu Ladies Day 2013.
