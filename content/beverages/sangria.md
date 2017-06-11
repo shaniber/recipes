@@ -1,7 +1,7 @@
 ---
 Title: Sangria  
 Date: 2013-04-19 16:30  
-Tags: beverages, alcohol
+Tags: beverages, alcohol, zu, ladies day
 Author: shane doucette  
 ---
 

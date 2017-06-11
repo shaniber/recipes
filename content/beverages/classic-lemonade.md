@@ -1,13 +1,15 @@
 ---
 Title: Classic Lemonade  
 Date: 2013-03-26 12:00  
-Tags: beverages, lemonade, lemons
+Tags: beverages, lemonade, lemons, zu, ladies day
 Author: shane doucette  
 ---
 
 # Classic Lemonade
 Who doesn't love a tall, cool glass of fresh, tart-and-sweet lemonade on
 a hot summer's day?
+
+This was served to the zu Ladies during Ladies Day lunch in 2013.
 
 ## Source
 [Cook's Illustrated via Metafilter](http://ask.metafilter.com/68352/Life-gave-me-bitter-lemonadenow-what)

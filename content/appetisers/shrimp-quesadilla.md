@@ -1,7 +1,7 @@
 ---
 Title: Shrimp Quesadilla  
 Date: 2013-04-17 12:30  
-Tags: appetiser, tex-mex, seafood, shrimp
+Tags: appetiser, tex-mex, seafood, shrimp, zu, ladies day
 Author: shane doucette  
 ---
 

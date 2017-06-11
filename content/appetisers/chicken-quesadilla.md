@@ -1,7 +1,7 @@
 ---
 Title: Chicken Quesadilla  
 Date: 2013-04-17 12:30  
-Tags: appetiser, tex-mex, chicken
+Tags: appetiser, tex-mex, chicken, zu, ladies day
 Author: shane doucette  
 ---
 

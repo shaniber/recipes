@@ -1,7 +1,7 @@
 ---
 Title: Black Bean and Corn Quesadilla
 Date: 2013-04-16 12:30
-Tags: appetiser, tex-mex, beans, corn, vegetarian
+Tags: appetiser, tex-mex, beans, corn, vegetarian, zu, ladies day
 Author: shane doucette
 ---
 
