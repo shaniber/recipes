@@ -1,12 +1,16 @@
 ---
 Title: Meat Chili  
 Date: 2013-07-15 21:22  
-Tags: meat, chili  
+Tags: meat, chili, spicy
 Author: shane doucette  
 ---
 
 # Meat Chili
-Presented for one of the zu Chili Cookoffs, this chili was originally built around a moose / pork mixture, but works very well with any meat.  It has a slow building heat, letting you taste all the other flavours first before it slaps you lightly in the mouth.  It can be started the night before, to have it ready for lunch the next day.
+Presented for one of the zu Chili Cookoffs, this chili was originally built 
+around a moose / pork mixture, but works very well with any meat.  It has a 
+slow building heat, letting you taste all the other flavours first before it 
+slaps you lightly in the mouth.  It can be started the night before, to have 
+it ready for lunch the next day.
 
 ## Source
 Based on [BS-Free Chili Recipe](http://foodists.ca/2009/09/25/bullshit-free-moose-chili-recipe.html)
