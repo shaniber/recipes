@@ -1,7 +1,7 @@
 ---
 Title: Fish Stew  
 Date: 2013-08-08 21:15  
-Tags: soup, fish, 
+Tags: soup, fish
 Author: shane doucette  
 ---
 
