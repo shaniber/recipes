@@ -1,12 +1,23 @@
+---
 Title: OMG WUT Cheesy Baked Dip  
 Date: 2013-04-30 12:30  
+Tags: appetiser, cheese, dip
 Author: shane doucette  
+---
 
+# OMG WUT Cheesy Baked Dip
+This is Amy Petty's insane-looking cheesy dip. I declared after seeing 
+her preparation of it that I would one day make it for a work potluck, and
+use it to kill my co-workers with kindness, and also cheese.
 
 ## Source
-[Amy Petty's shk](http://mlkshk.com/p/QKQ2)  
-[Tried and Tasty](http://triedandtasty.com/2011/01/cheesy-baked-dip/)
+[Amy Petty's shk](http://mltshp.com/p/QKQ2)  
+[Tried and Tasty](http://triedandtasty.com/cheesy-baked-dip)  
 
+## Time
+Prep Time: 10 mins  
+Cook Time: 60 mins  
+Total Time: 70 mins  
 
 ## Ingredients
 ~~~~
@@ -20,10 +31,10 @@ Author: shane doucette
 + 1            round bread loaf, hollowed out
 ~~~~
 
-
 ## Directions
-Mix first seven ingredients together and put into the hollowed out bread loaf. Bake at 350 degrees uncovered for one hour. Serve with leftover bread or chips.
-
+Mix first seven ingredients together and put into the hollowed out bread 
+loaf. Bake at 350 degrees uncovered for one hour. Serve with leftover 
+bread or chips.
 
 ## Yield
-A loaf full of dip, enough to share at a potluck.
+20 people, aloaf full of dip, enough to share at a potluck.

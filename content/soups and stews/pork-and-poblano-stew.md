@@ -1,24 +1,31 @@
+---
 Title: Pork and Poblano Stew  
 Author: shane doucette  
+Tags: pork, stew, peppers, spicy
 Date: 2013-03-27 12:00  
+---
 
+# Pork and Poblano Stew
+As often happened when I was perusing my social network of choice, MLTSHP
+(formerly MLKSHK), I happened upon this delicious looking lunch picture that
+made my mouth water. I haven't made it yet, but it's high on the list of 
+delicious things I've found there that I want to try. 
 
 ## Source
-[Brobosky's Lunch](http://mlkshk.com/p/PJ0O)  
+[Brobosky's Lunch](http://mltshp.com/p/PJ0O)  
 [http://www.simplyrecipes.com/recipes/pork_and_poblano_stew/](http://www.simplyrecipes.com/recipes/pork_and_poblano_stew/)  
-
 
 ## Ingredients
 ~~~~
 + 4-5          poblano chile peppers (about 3/4 pound)
-+ 1    Tbsp    vegetable oil
++ 1    tbsp    vegetable oil
 + 2½   pounds  pork shoulder, trimmed, cut into 1 to 2 inch pieces
 + Salt
 + 1            large onion, chopped (about 2 cups)
 + 3-4          garlic cloves, minced
 + 1    tsp     cumin
 + 1            chipotle chili in adobo, minced
-+ 1    Tbsp    dried oregano
++ 1    tbsp    dried oregano
 + 1    quart   chicken stock (use gluten-free stock for gluten-free option)
 + 1½   cup     fresh or frozen corn (no need to defrost if frozen)
 + 1            large (about ½ pound) sweet potato, peeled and diced (about ½ to ¾-inch cubes)
@@ -27,18 +34,32 @@ Date: 2013-03-27 12:00
 +              Toasted shelled pumpkin seeds (pepitas) Optional
 ~~~~
 
-
 ## Directions
-Char the chile peppers on all sides, directly over a gas flame, or broil, turning every minute or so until the chiles are blackened on all sides. Place in a bowl and cover with a clean dish towel. Let sit for 10 minutes or so, then rub off the blackened charred skin. Cut away and discard the stem, seeds, and internal veins. Roughly chop the chiles into 1 to 2 inch pieces. Set aside.
+Char the chile peppers on all sides, directly over a gas flame, or broil, 
+turning every minute or so until the chiles are blackened on all sides. Place 
+in a bowl and cover with a clean dish towel. Let sit for 10 minutes or so, 
+then rub off the blackened charred skin. Cut away and discard the stem, 
+seeds, and internal veins. Roughly chop the chiles into 1 to 2 inch pieces. 
+Set aside.
 
-Heat the vegetable oil in a large Dutch oven on medium high heat. Pat dry the pork pieces with a paper towel and brown them, working in batches as to not crowd the pan. Sprinkle salt generously over the pork while they brown.
+Heat the vegetable oil in a large Dutch oven on medium high heat. Pat dry the 
+pork pieces with a paper towel and brown them, working in batches so as to not 
+crowd the pan. Sprinkle salt generously over the pork while they brown.
 
-Remove the pork from the pan and set aside. Add the chopped onion and cumin to the pan and cook about 5 minutes, until translucent. Scrape up any browned bits from the bottom of the pan while the onions cook. Add garlic and cook for a minute more.
+Remove the pork from the pan and set aside. Add the chopped onion and cumin to 
+the pan and cook about 5 minutes, until translucent. Scrape up any browned 
+bits from the bottom of the pan while the onions cook. Add garlic and cook for 
+a minute more.
 
-Add the chopped chipotle to the onions and garlic. Return the browned pork to the pan. Add the chopped poblano chiles to the pan. Add the chicken stock and oregano. Bring to a boil, reduce to a simmer, cover and let cook for 1 hour. After an hour, add the diced sweet potato and corn to the stew. Cook for another half hour to 45 minutes, until the pork is tender and the sweet potatoes are cooked through.
+Add the chopped chipotle to the onions and garlic. Return the browned pork to 
+the pan. Add the chopped poblano chiles to the pan. Add the chicken stock and 
+oregano. Bring to a boil, reduce to a simmer, cover and let cook for 1 hour. 
+After an hour, add the diced sweet potato and corn to the stew. Cook for 
+another half hour to 45 minutes, until the pork is tender and the sweet 
+potatoes are cooked through.
 
-To serve, spoon out the stew into bowls. Swirl in a spoonful of sour cream to each bowl. Top with chopped fresh cilantro and toasted shelled pumpkin seeds.
-
+To serve, spoon out the stew into bowls. Swirl in a spoonful of sour cream to 
+each bowl. Top with chopped fresh cilantro and toasted shelled pumpkin seeds.
 
 ## Yield
 Serves 8.

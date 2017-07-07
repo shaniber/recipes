@@ -1,11 +1,16 @@
+---
 Title: Tartar Sauce  
 Date: 2016-05-15 10:22  
+Tags: sauce, fish
 Author: shane doucette  
+---
 
+# Tartar Sauce
+My bro, Jason, taught this one to my dad, and dad taught it to me. Yeah, it's
+a little backwards going that way, but Jason's a chef, so it makes sense. 
 
 ## Source
 Doucette Family
-
 
 ## Ingredients
 ~~~~

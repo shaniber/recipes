@@ -1,6 +1,9 @@
+---
 Title: Adam West's Sawtooth Mountain Pot Roast  
 Date: 2017-06-10 17:44  
+Tags: beef, roast
 Author: shane doucette  
+---
 
 # Adam West's Sawtooth Mountain Pot Roast
 Today, I learned that Adam West passed away at the age of 88. When
