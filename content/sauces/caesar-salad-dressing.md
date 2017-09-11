@@ -1,4 +1,4 @@
-----
+---
 Title: Easy Caesar Salad Dressing  
 Date: 2016-11-15 18:39  
 Tags: sauce, salad dressing, caesar
@@ -15,7 +15,7 @@ any store-bought dressing I've ever had.
 
 ## Ingredients
 ~~~~
-+ 2 small garlic cloves, minced
++ 2            small garlic cloves, minced
 + 30   ml      freshly squeezed lemon juice, from one lemon
 + 5    ml      Dijon mustard
 + 5    ml      Worcestershire sauce
