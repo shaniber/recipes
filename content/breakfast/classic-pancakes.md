@@ -7,7 +7,8 @@ Author: shane doucette
 
 # Classic Pancakes
 Everybody's got a pancake recipe, right? The one that's been passed down
-from parent to child, that you remember eating as a child? This is mine.
+from parent to child, that you remember eating as a kid? Well, this is 
+mine.
 
 It's really a pretty standard recipe, and I don't know where I found it 
 originally. It might have been my dad's, or my brother's. I might have 
