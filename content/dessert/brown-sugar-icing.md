@@ -5,7 +5,7 @@ Tags: dessert, brown sugar, icing sugar, icing
 Author: shane doucette  
 ---
 
-# Brown Sugar
+# Brown Sugar Icing
 My Dad's favourite birthday cake was the Super Chocolate Cake (see elsewhere
 in this recipe book) with brown sugar icing. Since this would be his second 
 birthday since his death, I thought I'd whip this up in his memory. I think 
