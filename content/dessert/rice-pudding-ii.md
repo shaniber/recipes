@@ -55,7 +55,7 @@ Remove the saucepan from the heat and add cinnamon, nutmeg, and vanilla. Stir
 well until fully combined. Serve warm or cold.
 
 ### Additions
-You can optionally add raising to the pudding. If you wish to do so, use
+You can optionally add raisins to the pudding. If you wish to do so, use
 about a half cup of raisins. Pour enough boiling water over the raisins to 
 cover them, and let them sit for about 10 minutes to plump up. Then drain 
 them, and add them to the pudding just before the vanilla and spices.
