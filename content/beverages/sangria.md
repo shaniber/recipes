@@ -25,7 +25,7 @@ Ladies Day 2013.
 ## Directions
 Pour wine in the pitcher and squeeze the juice wedges from the lemon and 
 orange into the wine. Toss in the fruit wedges (leaving out seeds if 
-possible) and add sugar and brandy. Chill overnight. Add ginger ale or 
+possible) and add sugar and vodka. Chill overnight. Add ginger ale or 
 club soda just before serving. 
 
 Substitute white wine for red if desired.  If club soda is used, the sugar
