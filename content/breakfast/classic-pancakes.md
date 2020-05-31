@@ -14,8 +14,8 @@ It's really a pretty standard recipe, and I don't know where I found it
 originally. It might have been my dad's, or my brother's. I might have 
 found it online. I might have snagged it from a magazine or cookbook 
 somewhere along the line. But I've been making this ever since I got tired
-of making bad mix pancakes, and it's the one that my girls ask for when
-they say "Dad, make pancakes, please. Make pancakes. Pancakes. Pancakes.
+of making bad mix-pancakes, and it's the one that my kids ask for when
+they say "Dad, make your pancakes, please. Make pancakes. Pancakes. Pancakes.
 Pancakes."
 
 ## Source
