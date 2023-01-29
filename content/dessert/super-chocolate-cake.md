@@ -11,6 +11,9 @@ birthday cake, the cake for special occasions, and the cake I made when
 I needed a recipe for home ec. It's rich and chocolately, and oh-so-very
 satisfying. 
 
+Mom suggested using the [Easy Penuche Frosting](easy-penuche-frosting.md) 
+recipe from Betty Crocker's Cookbook. I tend to agree. 
+
 ## Source
 Mom / Best of Bridge
 
