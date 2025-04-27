@@ -5,7 +5,7 @@ import sys
 sys.path.append('.')
 from pelicanconf import *
 
-SITEURL = 'http://tauntedechoes.com/rb'
+SITEURL = 'https://shaniber.net/recipes'
 
 DELETE_OUTPUT_DIRECTORY = True
 
